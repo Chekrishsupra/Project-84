@@ -18,7 +18,7 @@ Background_imgTag.src = background_image;
 
 car1_imgTag = new Image();
 car1_imgTag.onload = uploadcar1;
-car1_imagTag.src = car1_image;
+car1_imgTag.src = car1_image;
 
 car2_imgTag = new Image();
 car2_imgTag.onload = uploadcar2;
